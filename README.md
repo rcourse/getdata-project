@@ -12,7 +12,7 @@ Starting conditions to run_analysis.R:
 * after sourcing run_analysis.R run script by calling run_analysis()
 
 Script description:
-* read content of the train and test data files from directory ---------- into corresponding data sets
+* read content of the train and test data files from directory "UCI HAR Dataset" into corresponding data sets
 * merges the training and the test sets to create one data set
 * extracts only the measurements on the mean and standard deviation for each measurement
 * sets descriptive activity names to name the activities in the data set
