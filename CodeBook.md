@@ -1,4 +1,6 @@
-# Codebook for Getting and Cleaning Data course project on Coursera
+# Codebook for course project
+
+Course: Getting and Cleaning Data on Coursera
 
 ## Data source
 * can be obtained here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
