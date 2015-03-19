@@ -11,7 +11,7 @@ Starting conditions to run_analysis.R:
 * content of [this file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) must be downloaded and unzipped in the working directory (as "UCI HAR Dataset" sub-folder)
 * after sourcing run_analysis.R run script by calling run_analysis()
 
-Script description:
+Script run_analysis.R description:
 * read content of the train and test data files as well as features and activity labels from directory "UCI HAR Dataset" into corresponding data sets
 * merge train data sets into one data set - train
 * merge test data sets into one data set - test
