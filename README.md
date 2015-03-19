@@ -2,6 +2,9 @@
 
 This repository contains files necessary for course project to Getting and Cleaning Data course on Coursera.
 
+Data Source
+* [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 Project repository consists of these files:
 * README.md - this file
 * [CoodBook.md](https://github.com/rcourse/getdata-project/blob/master/CodeBook.md) - data description
