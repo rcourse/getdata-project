@@ -36,3 +36,11 @@ test
 
 merged
 
+## Tidy data set
+
+* *tidy_data* data set contains average of each variable for each activity and each subject
+* variables:
+ * *subject* - number of subject from 1 to 30
+ * *activity* - factor variable, one of these values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+ * averaged values for measurements of features that consists mean and standard deviation for each activity and each subject
+
