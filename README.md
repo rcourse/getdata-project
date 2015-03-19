@@ -2,7 +2,7 @@
 
 This repository contains files necessary for course project to Getting and Cleaning Data course on Coursera.
 
-Data Source
+Data Source:
 * [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 Project repository consists of these files:
