@@ -23,6 +23,7 @@ Script run_analysis.R description:
 * set descriptive activity names to name the activities in the data set as defined in activity_labels.txt
 * label the data set with descriptive variable names
 * create tidy data set with the average of each variable for each activity and each subject
+* save tidy data set as tidy_data.txt
 
 References:
 
