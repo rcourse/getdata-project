@@ -11,7 +11,7 @@ Starting conditions to run_analysis.R:
 * content of file https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip must be downloaded and unzipped in the working directory
 * after sourcing run_analysis.R run script by calling run_analysis()
 
-Data description: see CodeBook.md
+Data description: see [CoodBook.md](https://github.com/rcourse/getdata-project/blob/master/CodeBook.md)
 
 Script description:
 * script...
