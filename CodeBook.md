@@ -16,8 +16,8 @@ This files contains data description for course project to Getting and Cleaning 
 * *train/subject_test.txt* - number of subject who performed the activity in training phase, 7352 observations, 1 variable (train subject numbers: 1,3,5,6,7,8,11,14,15,16,17,19,21,22,23,25,26,27,28,29,30)
 * *test/X_test.txt* - test data set, 2947 observations, 561 measured variables (described in features_info.txt)
 * *test/y_test.txt* - number of activity for each observation in test data set, 2947 observations, 1 variable (activity numbers from 1 to 6)
-* *test/subject_test.txt* - number of subject who performed the activity in testing phase, 7352 observations, 1 variable (test subject numbers: 2,4,9,10,12,13,18,20,24)
-* *note*: there are also inertial signals data, which are irrelevant for this tasks
+* *test/subject_test.txt* - number of subject who performed the activity in testing phase, 2947 observations, 1 variable (test subject numbers: 2,4,9,10,12,13,18,20,24)
+* *note*: there are also inertial signals data, which are irrelevant for this project
 
 
 
