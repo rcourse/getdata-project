@@ -8,15 +8,15 @@ This files contains data description for course project to Getting and Cleaning 
 * full description of original data can be obtained [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ### Original data files
-* *test/X_test.txt*
-* *test/Y_test.txt*
-* *test/subject_test.txt*
-* *train/X_test.txt*
-* *train/Y_test.txt*
-* *train/subject_test.txt*
 * *features.txt* - list of features or variables that were recorded during experiments (561 features)
-* *features_info.txt* - 
-* *activity_labels.txt* - list of all activities that were observed (6 activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING)
+* *features_info.txt* - description of features and short methodology how they were obtained
+* *activity_labels.txt* - list of all activities that were measured (6 activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING)
+* *train/X_test.txt* - training data set, 7352 observations, 561 measured variables (described in features_info.txt)
+* *train/y_test.txt* - number of activity for each observation in training data set, 7352 observations, 1 variable (activity numbers from 1 to 6)
+* *train/subject_test.txt* - number of subject who performed the activity in training phase, 7352 observations, 1 variable (train subject numbers: 1,3,5,6,7,8,11,14,15,16,17,19,21,22,23,25,26,27,28,29,30)
+* *test/X_test.txt* - test data set, 2947 observations, 561 measured variables (described in features_info.txt)
+* *test/y_test.txt* - number of activity for each observation in test data set, 2947 observations, 1 variable (activity numbers from 1 to 6)
+* *test/subject_test.txt* - number of subject who performed the activity in testing phase, 7352 observations, 1 variable (test subject numbers: 2,4,9,10,12,13,18,20,24)
 * *note*: there are also inertial signals data, which are irrelevant for this tasks
 
 
