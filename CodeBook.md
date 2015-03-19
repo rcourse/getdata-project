@@ -8,7 +8,7 @@ This files contains data description for course project to Getting and Cleaning 
 * full description of original data can be obtained [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ### Original data files
-* **test/X_test.txt**
+* *test/X_test.txt*
 * test/Y_test.txt
 * test/subject_test.txt
 * train/X_test.txt
