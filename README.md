@@ -1,4 +1,6 @@
-# Read me file for Getting and Cleaning Data course project on Coursera
+# Read me file for course project
+
+Course: Getting and Cleaning Data on Coursera
 
 Project consists of these files:
 * README.md - this file
