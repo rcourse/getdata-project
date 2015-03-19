@@ -1,6 +1,6 @@
 # Read me file for course project
 
-This repository contains files necessary for course project from Getting and Cleaning Data course on Coursera.
+This repository contains files necessary for course project to Getting and Cleaning Data course on Coursera.
 
 Project consists of these files:
 * README.md - this file
