@@ -4,6 +4,7 @@ This repository contains files necessary for course project to Getting and Clean
 
 Data Source:
 * [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+* [Course Data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 Project repository consists of these files:
 * README.md - this file
