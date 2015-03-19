@@ -9,15 +9,15 @@ This files contains data description for course project to Getting and Cleaning 
 
 ### Original data files
 * *test/X_test.txt*
-* test/Y_test.txt
-* test/subject_test.txt
-* train/X_test.txt
-* train/Y_test.txt
-* train/subject_test.txt
-* features.txt - list 
-* features_info.txt
-* activity_labels.txt
-* note: there are also inertial signals data, which are irrelevant for this tasks
+* *test/Y_test.txt*
+* *test/subject_test.txt*
+* *train/X_test.txt*
+* *train/Y_test.txt*
+* *train/subject_test.txt*
+* *features.txt* - list of features or variables that were recorded during experiments (561 features)
+* *features_info.txt* - 
+* *activity_labels.txt* - list of all activities that were observed (6 activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING)
+* *note*: there are also inertial signals data, which are irrelevant for this tasks
 
 
 
