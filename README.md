@@ -18,15 +18,16 @@ Starting conditions to run_analysis.R:
 * after sourcing run_analysis.R run script by calling run_analysis()
 
 Script run_analysis.R description:
-* read content of the train and test data files as well as features and activity labels from directory "UCI HAR Dataset" into corresponding data sets
-* merge train data sets into one data set - train
-* merge test data sets into one data set - test
-* merge train and test sets to create one data set - joined
-* extract only the measurements on the mean and standard deviation for each measurement
-* set descriptive activity names to name the activities in the data set as defined in activity_labels.txt
+* read content of the train and test data files as well as features and activity labels from directory *UCI HAR Dataset* into corresponding data sets
+* merge train data sets into one data set - data frame *train*
+* merge test data sets into one data set - data frame *test*
+* merge train and test sets to create one data set - data frame *data*
+* extract only the measurements on the mean and standard deviation for each measurement - data frame *extract*
+* set descriptive activity names to name the activities in the data set as defined in *activity_labels.txt*
 * label the data set with descriptive variable names
-* create tidy data set with the average of each variable for each activity and each subject
-* save tidy data set as tidy_data.txt
+* create tidy data set with the average of each variable for each activity and each subject - data frame *tidy_data*
+* order tidy data by *subject* first and then by *activity* alphabetically
+* save tidy data set as [tidy_data.txt](https://github.com/rcourse/getdata-project/blob/master/tidy_data.txt)
 
 References:
 
