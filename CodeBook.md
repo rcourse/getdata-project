@@ -36,9 +36,8 @@ This file contains data description for course project to Getting and Cleaning D
 * variables:
  * *subject* - number of subject from 1 to 30
  * *activity* - descriptive name for acticity, one of these values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
- * averaged values for measurements of features that consists mean and standard deviation for given activity and given subject
- * observations: 180 observations (each subject form 1 to 30 performing 6 activities - 6 * 30 = 180)
- * variables: *subject*, *activity* and 66 variables of corresponding means of measured data (see below)
+ * 66 variables of corresponding means - averaged values for measurements of features that consists mean and standard deviation for given activity and given subject (see below for variable names)
+* observations: 180 observations (each subject form 1 to 30 performing 6 activities - 6 * 30 = 180)
 
 ## Averaged measurements features in tidy data set
 * tBodyAcc-mean()-X
