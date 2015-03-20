@@ -20,7 +20,7 @@ Script run_analysis.R description:
 * merge train data sets into one data set - train
 * merge test data sets into one data set - test
 * merge train and test sets to create one data set - joined
-* extract only the measurements on the mean and standard deviation for each measurement
+* extract only the measurements on the mean and standard deviation for each measurement (note: variables with meanFreq are also considered as means - means of frequencies)
 * set descriptive activity names to name the activities in the data set as defined in activity_labels.txt
 * label the data set with descriptive variable names
 * create tidy data set with the average of each variable for each activity and each subject
